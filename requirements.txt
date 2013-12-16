@@ -1,0 +1,2 @@
+lxml==3.3.0beta1
+wsgiref==0.1.2
